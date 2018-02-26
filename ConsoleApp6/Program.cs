@@ -22,6 +22,7 @@ namespace ConsoleApp6
                 else
                     Console.WriteLine("Тупица");
                 
+
             }      
             
             
